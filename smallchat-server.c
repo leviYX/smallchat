@@ -36,6 +36,7 @@
 #include <unistd.h>
 
 #include "chatlib.h"
+// 我没有使用makefile的链接，所以我直接在这里包含了chatlib.c的头文件和实现。
 #include  "chatlib.c"
 
 /* ============================ Data structures =================================
