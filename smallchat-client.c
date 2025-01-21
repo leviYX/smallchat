@@ -38,6 +38,7 @@
 #include <errno.h>
 
 #include "chatlib.h"
+#include "chatlib.c"
 
 /* ============================================================================
  * Low level terminal handling.

@@ -36,6 +36,7 @@
 #include <unistd.h>
 
 #include "chatlib.h"
+#include  "chatlib.c"
 
 /* ============================ Data structures =================================
  * The minimal stuff we can afford to have. This example must be simple
